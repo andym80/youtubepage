@@ -4,4 +4,10 @@ nav {
     justify-content: center;
     margin-bottom: 50px;
     align-content: space-around;
+  
+}
+.button {
+    
+    background-color: white;
+    border: solid white 1px;
 }
